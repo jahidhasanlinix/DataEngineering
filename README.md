@@ -10,3 +10,7 @@
 - KPIs & Exp
 - Data Quality Patterns Analysis
 - Data Visualization
+
+
+# Project_Factory
+- Complete project done on Azure Data Factory, Data Lake Gen2, SQL, Pyspark, etc.
