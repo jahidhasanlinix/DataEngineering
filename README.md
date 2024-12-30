@@ -1,6 +1,6 @@
-# Data Engineering
+# Complete Data Engineering
 
-## Topics:
+## Practice Topics:
 - Dimensional Data Modeling
 - Fact Data Modeling
 - Apache Spark
