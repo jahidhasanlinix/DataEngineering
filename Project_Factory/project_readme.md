@@ -100,3 +100,7 @@ This project implements a modern data engineering pipeline for processing and an
 ![Screenshot 1](screenshot1.png)
 
 ![starschema](starschema.png)
+
+![databricks](databricks.png)
+
+![query](query.png)
