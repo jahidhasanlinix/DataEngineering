@@ -98,3 +98,5 @@ This project implements a modern data engineering pipeline for processing and an
 
 ## Some Screenshots:
 ![Screenshot 1](screenshot1.png)
+
+![starschema](starschema.png)
